@@ -1,3 +1,8 @@
+# Cheeky Token
+By: cheekyprogrammer
+
+Using the Internet Computer open-source blockchain, this app establishes a "Cheeky Token" and allows users to claim free tokens and transfer them to other users.
+
 # Check your Balance
 
 1. Find out your principal id:
